@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>aula3.xcscheme</key>
+		<key>Knowl.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>57CAE15C1D5BEB19005BEB87</key>
+		<key>57CAE1821D5BEFC9005BEB87</key>
 		<dict>
 			<key>primary</key>
 			<true/>

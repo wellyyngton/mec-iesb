@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "57CAE15C1D5BEB19005BEB87"
-               BuildableName = "aula3.app"
-               BlueprintName = "aula3"
-               ReferencedContainer = "container:aula3.xcodeproj">
+               BlueprintIdentifier = "57CAE1821D5BEFC9005BEB87"
+               BuildableName = "Knowl.app"
+               BlueprintName = "Knowl"
+               ReferencedContainer = "container:Knowl.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "57CAE15C1D5BEB19005BEB87"
-            BuildableName = "aula3.app"
-            BlueprintName = "aula3"
-            ReferencedContainer = "container:aula3.xcodeproj">
+            BlueprintIdentifier = "57CAE1821D5BEFC9005BEB87"
+            BuildableName = "Knowl.app"
+            BlueprintName = "Knowl"
+            ReferencedContainer = "container:Knowl.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "57CAE15C1D5BEB19005BEB87"
-            BuildableName = "aula3.app"
-            BlueprintName = "aula3"
-            ReferencedContainer = "container:aula3.xcodeproj">
+            BlueprintIdentifier = "57CAE1821D5BEFC9005BEB87"
+            BuildableName = "Knowl.app"
+            BlueprintName = "Knowl"
+            ReferencedContainer = "container:Knowl.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "57CAE15C1D5BEB19005BEB87"
-            BuildableName = "aula3.app"
-            BlueprintName = "aula3"
-            ReferencedContainer = "container:aula3.xcodeproj">
+            BlueprintIdentifier = "57CAE1821D5BEFC9005BEB87"
+            BuildableName = "Knowl.app"
+            BlueprintName = "Knowl"
+            ReferencedContainer = "container:Knowl.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
