@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		57C3C4F71D6E5EC40055083B /* DrawView.m in Sources */ = {isa = PBXBuildFile; fileRef = 57C3C4F61D6E5EC40055083B /* DrawView.m */; };
 		57CAE1881D5BEFC9005BEB87 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 57CAE1871D5BEFC9005BEB87 /* main.m */; };
 		57CAE18B1D5BEFC9005BEB87 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 57CAE18A1D5BEFC9005BEB87 /* AppDelegate.m */; };
 		57CAE18E1D5BEFC9005BEB87 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57CAE18D1D5BEFC9005BEB87 /* ViewController.m */; };
@@ -17,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		57C3C4F51D6E5EC40055083B /* DrawView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawView.h; sourceTree = "<group>"; };
+		57C3C4F61D6E5EC40055083B /* DrawView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawView.m; sourceTree = "<group>"; };
 		57CAE1831D5BEFC9005BEB87 /* Knowl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Knowl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57CAE1871D5BEFC9005BEB87 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		57CAE1891D5BEFC9005BEB87 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -65,6 +68,8 @@
 				57CAE18C1D5BEFC9005BEB87 /* ViewController.h */,
 				57CAE18D1D5BEFC9005BEB87 /* ViewController.m */,
 				57CAE18F1D5BEFC9005BEB87 /* Main.storyboard */,
+				57C3C4F51D6E5EC40055083B /* DrawView.h */,
+				57C3C4F61D6E5EC40055083B /* DrawView.m */,
 				57CAE1951D5BEFC9005BEB87 /* Assets.xcassets */,
 				57CAE1971D5BEFC9005BEB87 /* LaunchScreen.storyboard */,
 				57CAE19A1D5BEFC9005BEB87 /* Info.plist */,
@@ -156,6 +161,7 @@
 				57CAE1941D5BEFC9005BEB87 /* Knowl.xcdatamodeld in Sources */,
 				57CAE18B1D5BEFC9005BEB87 /* AppDelegate.m in Sources */,
 				57CAE1881D5BEFC9005BEB87 /* main.m in Sources */,
+				57C3C4F71D6E5EC40055083B /* DrawView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,6 +312,7 @@
 				57CAE19F1D5BEFC9005BEB87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
